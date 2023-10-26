@@ -1,0 +1,44 @@
+.container-ManageAdmin {
+  max-width: 1000px;
+  margin: 0 auto;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  margin-top: 40px;
+  background: #fffcfc;
+  border-radius: 20px;
+}
+.head-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.head-content h1 {
+  margin-top: 20px;
+  color: #444f6c;
+}
+.table {
+  width: 100%;
+  padding: 20px;
+}
+
+.table td,.table th{
+    border: 1px solid #ddd;
+    padding: 12px 15px;
+    margin-bottom: 30px;
+    text-align: center;
+    border-radius: 5px;
+}
+table th{
+    background: #444f6c;
+    color: white;
+    border-radius: 5px;
+}
+.icon1, .icon2{
+    font-size: 20px;
+    cursor: pointer;   
+    color: #444f6c;
+    margin-left: 10px;
+}
+
+
+
